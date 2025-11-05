@@ -1,0 +1,6 @@
+# Simple knowledge base
+hello:Hello!;Hi there!;Hey!;Greetings!
+name:I'm a C chatbot!;Call me ChatC!;I'm your C programming friend!
+weather:I don't have live weather data;You should check a weather app!;It's always sunny in the computer!
+thanks:You're welcome!;No problem!;Happy to help!
+what can you do:I can answer simple keyword-based questions and learn from a file.;I can respond to greetings, tell you my name, and more.
